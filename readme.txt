@@ -1,0 +1,2 @@
+K12VideoFaceRecognition(Py27)
+基于一对一和一对多模式下的K12教学视频人脸识别系统
